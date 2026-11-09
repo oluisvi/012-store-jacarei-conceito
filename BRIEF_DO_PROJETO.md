@@ -18,6 +18,7 @@ Uma vitrine complementar pode organizar referências publicadas, permitir busca/
 - Busca, filtros, seleção de itens e consulta pré-preenchida no WhatsApp.
 - Catálogo ampliado para cinco referências visuais distintas (três conjuntos, polos agrupadas numa referência e calçados), com imagens próprias e sem repetir ângulos ou variantes como itens separados.
 - Navegação por categoria, busca, ordenação e painel de detalhes com a publicação original e ação para adicionar/remover da consulta.
+- Prancha de apresentação em layout editorial claro e arejado: cabeçalho, chamada com foto, três cartões visuais, síntese em duas colunas e rodapé discreto. As cinco referências aparecem uma vez cada.
 - Fotos refletem posts, não estoque atual. Preços, disponibilidade, tamanhos além dos anunciados no post, condições de atacado, entrega e políticas ficam para confirmação direta.
 - Sem pagamento, pedido efetivado, backend ou estoque integrado.
 - A prancha mostra as três composições como arte demonstrativa.
