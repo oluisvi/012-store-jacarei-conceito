@@ -1,20 +1,13 @@
 # Créditos dos ativos
 
-As imagens locais foram exportadas do Instagram oficial da 012 Store Surf Wear (@012storesurfwear_) em 09/11/2026 por meio da sessão de navegador autenticada, para ilustrar este conceito privado/demonstrativo. São publicações da loja, não confirmação de disponibilidade atual.
+As imagens locais foram exportadas de publicações do perfil oficial da 012 Store Surf Wear (@012storesurfwear_) em 09/11/2026 para este conceito demonstrativo. Cada cartão do catálogo representa uma referência visual distinta; conjuntos, cores ou ângulos do mesmo item não são repetidos como produtos separados. A seleção não informa estoque atual.
 
-| Arquivo | Origem | Uso |
+| Arquivo | Origem | Referência apresentada |
 |---|---|---|
-| `kit-preto-01.jpg` | https://www.instagram.com/012storesurfwear_/p/DdZj5CNGlZv/ | Kit de camiseta e bermuda; hero |
-| `kit-preto-02.jpg` | https://www.instagram.com/012storesurfwear_/p/DdZj5CNGlZv/ | Conjunto escuro; catálogo |
-| `kit-preto-produto.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Referência para seção de kits |
-| `look-camiseta-01.jpg` | https://www.instagram.com/012storesurfwear_/p/DcygMdsnG72/ | Seleção de camisetas |
-| `look-camiseta-02.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Seleção visual |
-| `look-camiseta-03.jpg` | https://www.instagram.com/012storesurfwear_/p/DcygMdsnG72/ | Seleção de camisetas |
-| `look-camiseta-04.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Uso na prancha |
-| `detalhe-kit-01.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Seção atacado |
-| `detalhe-kit-02.jpg` | https://www.instagram.com/012storesurfwear_/p/DcygMdsnG72/ | Referência de conjunto |
+| `catalog-tech-fleece.jpg` | https://www.instagram.com/012storesurfwear_/p/DdeO6BNSPCK/ | Conjunto Tech Fleece |
+| `catalog-tnf-set.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Conjunto TNF Air |
+| `catalog-quiksilver-set.jpg` | https://www.instagram.com/012storesurfwear_/p/DcygMdsnG72/ | Conjunto Quiksilver |
+| `catalog-polos.jpg` | https://www.instagram.com/012storesurfwear_/p/DdJwMstvz7x/ | Polos em diferentes cores, agrupadas numa referência |
+| `catalog-sneakers.jpg` | https://www.instagram.com/012storesurfwear_/p/DcqslmCP1iw/ | Tênis New Balance |
 
-Imagens não são servidas por domínio de terceiros; atribuição na interface e no projeto permanece. Direitos de publicação fora do contexto privado da proposta não foram acordados; obter aprovação da loja para uso público/comercial.
-
-| loja-012.jpg | https://www.instagram.com/012storesurfwear_/ | Fundo da prancha, retrato na loja |
-
+Outras imagens usadas no hero, seção de atacado e prancha permanecem como imagens editoriais de apoio e não são contadas como itens distintos no catálogo. Atribuir cada imagem à publicação correspondente. Direitos para uso público/comercial precisam ser aprovados pela loja.

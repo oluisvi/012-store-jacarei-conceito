@@ -10,9 +10,9 @@ Vitrine mobile-first para explorar referências de kits e camisetas e consultar 
 
 ## Interações
 
-- Busca por nome e descrição, filtros de kits/camisetas e seleção de referências.
+- Busca por nome/categoria/descrição, filtros de conjuntos/polos/calçados, ordenação A–Z e detalhes por referência.
 - A seleção monta uma consulta com os itens marcados para o WhatsApp +55 12 99232-3004.
-- Cada foto abre a publicação original do Instagram.
+- Cinco referências de produto com imagens próprias, sem duplicar ângulos ou variantes como itens independentes. O painel de detalhes abre a publicação original do Instagram.
 - Preferência visual persiste na sessão. Layout responsivo e suporte a `prefers-reduced-motion`.
 
 ## Fontes e limites
