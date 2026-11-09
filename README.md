@@ -28,3 +28,5 @@ Abra `index.html` ou rode `python -m http.server 8768`.
 ## Prancha
 
 `arte/012-store-prancha.png`; origem editável em `arte/prancha.html`.
+
+Regere a prancha com `python arte/build_board.py`. O script abre as capturas reais do protótipo em três tamanhos de tela com Chrome ou Edge instalado.
